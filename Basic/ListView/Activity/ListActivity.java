@@ -19,7 +19,7 @@ public class ListActivity extends AppCompatActivity {
 
 
     // 다른 액티비티와 데이터를 주고받을때 사용하는 키를 먼저 정의해둔다.
-    public static final  String DATA_KEY = "ListActivityData";
+    public static final String DATA_KEY = "ListActivityData";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,7 +35,6 @@ public class ListActivity extends AppCompatActivity {
         //context , 추상클래스라고 보면됨 . 여러가지 기능을 쓰기위해 정의를 해논거다. 기능과 속성의 모음
         //this는 특정 지을수 없기 때문에 포괄적으로 쓴다
         ArrayAdapter adapter = new ArrayAdapter(this,android.R.layout.simple_list_item_1,datas);
-
         //3 뷰 > 연결 > 아답터
         listView.setAdapter(adapter);
 

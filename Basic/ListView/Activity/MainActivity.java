@@ -61,7 +61,9 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case CUSTOM:
                         intent = new Intent(MainActivity.this, CustomListActivity.class);
+
                         startActivity(intent);
+                        break;
                     default: // 선택하세요
 
                 }
