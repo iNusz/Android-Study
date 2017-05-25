@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.seunghoshin.android.gradle"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    signingConfigs{
+        release{
+            storeFile file("../../keystore/ketsrote.jks") //상대경로이다 .. /..   , 절대경로는 직접 다써주는것이다
+            storePassword storePw
+            keyAlias keyId
+            keyPassword keyPw
+        }
+    }
+
+    buildTypes { // release{} debug{} 전자는 출시하는거고 후자는 디버깅 하는용이다
+        debug{
+            buildConfigField "String", "MYURL", "\"test.seoul.go.kr\""
+        }
+        release {            //값의타입    이름          실제값
+            buildConfigField "String", "MYURL", "\"seoul.go.kr\"" //그래들에 들어가면 ""가 벗겨져서 하나 더써준다
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+}

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_986ead3e1c1e5f841a54db169ea1963d56b1777f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/14b1cdb6292e680adb956a9abac8049a9bf109ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_ef5598f9bc1a6c518a48c81dcb8b497125c572fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/15672211d1800b9afc43aeb69072e16d2671cc71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_118093e1b2f56a7e427e72b4f938172feea1c881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/4ff1f19cc65c9dc353c012429c86502a1da3d621/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_cbedd693be9a46ee88a11ea7ac81f043a2d0b258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/9d4bc9b87e1be35cf217807a85c57dcfef9ca854/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_74dd5d36f3f91542a30dcdd8c829d061ab7cd308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/da08f2c1cede76cc236f44638012172406fa0d78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_c9b6867dd3c431e659aac23bb49b437eef3958e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/df860b09f25f02d8d29e6f4f359cab36c72e13e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_333479937cdfde5cd17c73d27025d21e329233b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_9d0ec996c68edbacad01441a6d74e467b4f716a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/427175acd01d6f20b1a72790ebbbf5f497c35aa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_135ba02b141d0dcde84fbaa3732b078af7cd9b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/2f42922209fe1890b65ddaeeb037a4f457ceeb69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_f9cbe773d6a76926f28a7d3e8b75af430a9360b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/697a0587227b492c1b79caa1ac180cbf38420910/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_94ac5613b3ea49af6bd47f4ab804afdfcf9a0df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seunghosin/.android/build-cache/33ce41d7c4e52b4109a66db86455f386f4d54f56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/seunghosin/Desktop/workspace/android/Gradle/app/build/intermediates/pre-dexed/release/classes_e75c3a3132d374088a95d2263e81e2a0ff667fee.jar" />
+    </item>
+
+</items>
