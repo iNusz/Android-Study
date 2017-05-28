@@ -11,13 +11,14 @@
 - [BasicLayout](https://github.com/iNusz/Android-Study/tree/master/Basic/BasicLayout)
 - [Relative, Linear, Grid Layout](https://github.com/iNusz/Android-Study/blob/master/Basic/Relative%2C%20Linear%2C%20Grid%20Layout/Relative%20%2C%20Linear%2C%20Grid%20Layout.md)
 
-
 - [이항 계산기](https://github.com/iNusz/Android-Study/blob/master/Basic/%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%82%B0%EA%B8%B0.md)
 - [Gradle](https://github.com/iNusz/Android-Study/tree/master/Basic/Gradle)
 - [ListView](https://github.com/iNusz/Android-Study/tree/master/Basic/ListView)
 - [CustomView](https://github.com/iNusz/Android-Study/tree/master/Basic/CustomView)
 - [RecyclerView](https://github.com/iNusz/Android-Study/tree/master/Basic/RecyclerView)
 - [IntentBasic](https://github.com/iNusz/Android-Study/tree/master/Basic/IntentBasic)
+- [ActivityLifeCycle,Translucent](https://github.com/iNusz/Android-Study/tree/master/Basic/ActivityLifeCycle%2CTranslucent)
+
 
 
 #### 2. Intensive
